@@ -6,6 +6,7 @@
 	百度： https://pan.baidu.com/s/1pKUQ3sJ 密码: 5r8k
 	360：https://yunpan.cn/Ock8Wqn8jIgrw2 （提取码：2182）
 
+##使用教程
 ###已测试可用，大家一定要按照顺序，有不懂的群里问
 #####1、安装0.7 — 扫码登陆 — 关闭0.7
 #####2、安装0.9 ——不要启动程序——替换3个文件
@@ -27,20 +28,6 @@ C:\Program Files (x86)\Tencent\微信web开发者工具\package.nw\app\dist\stro
 * 先使用0.7版本[[Windows](http://dldir1.qq.com/WechatWebDev/release/0.7.0/wechat_web_devtools_0.7.0_x64.exe)|[Mac] (http://dldir1.qq.com/WechatWebDev/release/0.7.0/wechat_web_devtools_0.7.0.dmg)]的进行扫码登陆
 * 登陆成功后，再用[0.9版本](https://pan.baidu.com/s/1pLTKIqJ)打开就直接进入了
 
-##使用教程
-
-1. 运行『微信Web开发者工具』
-2. 通过微信扫描二维码
-3. 创建项目
-  * AppID：随便填
-  * 项目名称：随便填
-  * 本地开发目录：选择一个目录
-4. 点击「添加项目」
-  * 此时如果出错，先退出再重进
-  * 此时，能够看到项目列表了
-5. 打开项目
-6. 开始开发
-7. Good luck
 
 ##常见问题
 1. 找不到所要替换的文件
