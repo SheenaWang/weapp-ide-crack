@@ -2,17 +2,21 @@
 
 * 小程序开发交流QQ群： 320917137
 
-* 开发工具 v0.7
-	* 百度: https://pan.baidu.com/s/1pLTKIqJ （密码: iswg）
-	* 360: https://yunpan.cn/ckvTYFHWzYYFV （提取码：e09b）
+开发工具 v0.7
 
-* 开发工具 v0.9
-  * 百度: https://pan.baidu.com/s/1pLTKIqJ （密码: iswg）
-  * 360: https://yunpan.cn/ckvXjEbnFYMSC （提取码：f9ca）
+    百度: https://pan.baidu.com/s/1pLxqFzH （密码: bwt9）
+    360: https://yunpan.cn/ckvTYFHWzYYFV （提取码：e09b）
 
-* Demo源代码
-  * 百度: https://pan.baidu.com/s/1o8hJFuU （密码: bsky）
-  * 360: https://yunpan.cn/ckvXAacJjvsgR （提取码：3327）
+开发工具 v0.9
+
+    百度: https://pan.baidu.com/s/1pLTKIqJ （密码: iswg）
+    360: https://yunpan.cn/ckvXjEbnFYMSC （提取码：f9ca）
+
+Demo源代码
+
+    百度: https://pan.baidu.com/s/1o8hJFuU （密码: bsky）
+    360: https://yunpan.cn/ckvXAacJjvsgR （提取码：3327）
+
 
 ##破解步骤
 
