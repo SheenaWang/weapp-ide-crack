@@ -8,15 +8,15 @@
 ##破解步骤
 
 ***已测试可用***
-1、安装0.7 — 扫码登陆 — 关闭0.7
-2、安装0.9 ——不要启动程序——替换3个文件
+1.安装0.7 — 扫码登陆 — 关闭0.7
+2.安装0.9 ——不要启动程序——替换3个文件
 	文件在weapp-ide-crack-master文件夹中
 	替换目录
 C:\Program Files (x86)\Tencent\微信web开发者工具\package.nw\app\dist\weapp\appservice\asdebug.js
 C:\Program Files (x86)\Tencent\微信web开发者工具\package.nw\app\dist\components\create\createstep.js
 C:\Program Files (x86)\Tencent\微信web开发者工具\package.nw\app\dist\stroes\projectStores.js
-3、打开0.9——新建项目：appid和名称随便填，路径选demo的路径
-4、good luck
+3.打开0.9——新建项目：appid和名称随便填，路径选demo的路径
+4.good luck
 
 Demo运行，把文件路径指向Demo，就可以再IDE中运行。查看代码
 
